@@ -50,7 +50,7 @@ const About = () => (
             <div>
               <h2>Şeffaf Plak Tedavisi</h2>
               <p>
-              Ankara’da şeffaf plak tedavisi için Uzm. Dt. Zeynep Karakoç’tan ücretsiz muayene için randevu alarak şeffaf plak tedaviniz hakkında detaylı bilgi alabilirsiniz.
+              Ankara’da şeffaf plak tedavisi için Uzm. Dt. Zeynep Karakoç’tan muayene için randevu alarak şeffaf plak tedaviniz hakkında detaylı bilgi alabilirsiniz.
               </p>
               <br></br>
               <p>
@@ -71,7 +71,7 @@ const About = () => (
             <div>
               <h2>Zeynep Karakoç Kimdir?</h2>
               <p>
-              Ankara’da Ortodonti Uzmanı olarak Kızılay’da bulunan kliniğimde hasta kabul ediyorum. Şeffaf plak konusunda tedavi olmak isteyenler için şeffaf plak tedavisi yapıyorum. Ankara’da şeffaf plak ve şeffaf plak tedavisi hakkında bilgi almak için ya da ücretsiz muayene olarak tedaviniz hakkında detayalı görüşmek için randevu alabilirsiniz.
+              Ankara’da Ortodonti Uzmanı olarak Kızılay’da bulunan kliniğimde hasta kabul ediyorum. Şeffaf plak konusunda tedavi olmak isteyenler için şeffaf plak tedavisi yapıyorum. Ankara’da şeffaf plak ve şeffaf plak tedavisi hakkında bilgi almak için ya da muayene olarak tedaviniz hakkında detayalı görüşmek için randevu alabilirsiniz.
               </p>
             </div>
           </Grid>
